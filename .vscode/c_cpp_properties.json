@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/l/bws/devel/include/**",
+        "/home/l/catkin_ws_py31/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/l/aws/devel/include/**",
+        "/home/l/aws/src/navigation/amcl/include/**",
+        "/home/l/aws/src/navigation/base_local_planner/include/**",
+        "/home/l/catkin_ws_py31/src/beginner_tutorials/include/**",
+        "/home/l/bws/src/carla-safe-driving/carla_global_planner/include/**",
+        "/home/l/bws/src/carla-safe-driving/carla_local_planner/include/**",
+        "/home/l/bws/src/carla-safe-driving/carla_perception/include/**",
+        "/home/l/aws/src/navigation/carrot_planner/include/**",
+        "/home/l/aws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/l/aws/src/navigation/costmap_2d/include/**",
+        "/home/l/aws/src/vision_opencv/cv_bridge/include/**",
+        "/home/l/aws/src/navigation/dwa_local_planner/include/**",
+        "/home/l/aws/src/geometry/eigen_conversions/include/**",
+        "/home/l/aws/src/navigation/global_planner/include/**",
+        "/home/l/aws/src/vision_opencv/image_geometry/include/**",
+        "/home/l/aws/src/geometry/kdl_conversions/include/**",
+        "/home/l/aws/src/navigation/map_server/include/**",
+        "/home/l/aws/src/navigation/move_base/include/**",
+        "/home/l/aws/src/navigation/move_slow_and_clear/include/**",
+        "/home/l/aws/src/navigation/nav_core/include/**",
+        "/home/l/aws/src/navigation/navfn/include/**",
+        "/home/l/catkin_ws_py31/src/opencv_apps/include/**",
+        "/home/l/bws/src/ros-bridge/pcl_recorder/include/**",
+        "/home/l/aws/src/navigation/rotate_recovery/include/**",
+        "/home/l/aws/src/geometry/tf/include/**",
+        "/home/l/aws/src/geometry2/tf2/include/**",
+        "/home/l/aws/src/geometry2/tf2_bullet/include/**",
+        "/home/l/aws/src/geometry2/tf2_eigen/include/**",
+        "/home/l/aws/src/geometry2/tf2_geometry_msgs/include/**",
+        "/home/l/aws/src/geometry2/tf2_kdl/include/**",
+        "/home/l/aws/src/geometry2/tf2_msgs/include/**",
+        "/home/l/aws/src/geometry2/tf2_ros/include/**",
+        "/home/l/aws/src/geometry2/tf2_sensor_msgs/include/**",
+        "/home/l/aws/src/geometry/tf_conversions/include/**",
+        "/home/l/aws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

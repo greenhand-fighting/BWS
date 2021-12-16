@@ -1,0 +1,8 @@
+prefix=/home/l/bws/devel
+
+Name: carla_global_planner
+Description: Description of carla_global_planner
+Version: 0.0.0
+Cflags: -I/home/l/bws/src/carla-safe-driving/carla_global_planner/include
+Libs: -L${prefix}/lib 
+Requires: 

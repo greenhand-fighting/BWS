@@ -1,0 +1,8 @@
+prefix=/home/l/bws/install
+
+Name: carla_path_tracking
+Description: Description of carla_path_tracking
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

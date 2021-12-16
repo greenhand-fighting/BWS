@@ -1,0 +1,8 @@
+prefix=/home/l/bws/install
+
+Name: carla_drive_with_uncertainty
+Description: Description of carla_drive_with_uncertainty
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

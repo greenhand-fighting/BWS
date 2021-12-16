@@ -1,0 +1,8 @@
+prefix=/home/l/bws/install
+
+Name: one_butten_start
+Description: Description of one_butten_start
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
